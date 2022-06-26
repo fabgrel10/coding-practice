@@ -1,0 +1,22 @@
+{
+  "name": "interview-prep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabgrel10/interview-prep.git"
+  },
+  "author": "Fabricio Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabgrel10/interview-prep/issues"
+  },
+  "homepage": "https://github.com/fabgrel10/interview-prep#readme",
+  "devDependencies": {}
+}
